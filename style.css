@@ -2374,7 +2374,8 @@ footer#footer {
   border: 1px solid #EAE8DF;
   padding: 15%;
   cursor: pointer;
-  width: 100%;
+  width: 400px;
+  height: 400px;
 }
 
 .product-style button.add-to-cart {
