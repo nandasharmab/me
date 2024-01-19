@@ -1,0 +1,77 @@
+[
+    {
+        "book_name": "ବାୟସଦୂତମ୍",
+        "img_path": "images/bayasadutam.jpg",
+        "doc_path": "docs/bayasadutam.pdf"
+    },
+    {
+        "book_name": "ବାୟସଦୂତମ୍। (ଦ୍ଵିତୀୟ ଭାଗ )",
+        "img_path": "images/bayasadutam2.jpg",
+        "doc_path": "docs/bayasadutam2.pdf"
+    },
+    {
+        "book_name": "ଏଇ ଭାରତ ଦେଶ ବ୍ୟଙ୍ଗାତ୍ମକ କବିତା ସଂକଳନ",
+        "img_path": "images/aei_bharat_desha.jpg",
+        "doc_path": "docs/aei_bharat_desha.pdf"
+    },
+    {
+        "book_name": "ପଲ୍ଲୀ ଗୀତ ଓ ଭକ୍ତି ସଂଗୀତ",
+        "img_path": "images/palligita.jpg",
+        "doc_path": "docs/palligita.pdf"
+    },
+    {
+        "book_name": "ଓଁ ଶ୍ରୀ ଶ୍ରୀ ବିଶ୍ୱକର୍ମା ପୂଜା ପଦ୍ଧତି",
+        "img_path": "images/biswakarma_puja.jpg",
+        "doc_path": "docs/biswakarma_puja.pdf"
+    },
+    {
+        "book_name": "ହନୁମତ୍ ପୂଜା ପଦ୍ଧତି ହନୁମତ୍ ସ୍ତୋତ୍ରମ୍",
+        "img_path": "images/hanumat.jpg",
+        "doc_path": "docs/hanumat.pdf"
+    },
+    {
+        "book_name": "ଶ୍ରୀ ଶ୍ରୀ ଶନୈଶ୍ଚର ପୂଜା ପଦ୍ଧତି",
+        "img_path": "images/sanyeshara.jpg",
+        "doc_path": "docs/sanyeshara.pdf"
+    },
+    {
+        "book_name": "ଚତୁରାନନ",
+        "img_path": "images/chaturanana.jpg",
+        "doc_path": "docs/chaturanana.pdf"
+    },
+    {
+        "book_name": "ରୂପ ଓ ଭେକ ଆମ ଗଣତନ୍ତ୍ର ର",
+        "img_path": "images/rupa_veka.jpg",
+        "doc_path": "docs/rupa_veka.pdf"
+    },
+    {
+        "book_name": "ସ୍ତବ ସ୍ତୋତ୍ର ବାରିଧି",
+        "img_path": "images/staba_strota.jpg",
+        "doc_path": "docs/staba_strota.pdf"
+    },
+    {
+        "book_name": "ବ୍ରଜେନ୍ଦୁ ବିଳାସ ଚମ୍ପୁ",
+        "img_path": "images/brajendu.jpg",
+        "doc_path": "docs/brajendu.pdf"
+    },
+    {
+        "book_name": "ବର୍ଣ୍ଣାକ୍ଷରରେ ଶ୍ରୀ ଜଗନ୍ନାଥ ଓ ମାତୃଶକ୍ତି ସ୍ତୁତିମାଳା",
+        "img_path": "images/barnakhyarare.jpg",
+        "doc_path": "docs/barnakhyarare.pdf"
+    },
+    {
+        "book_name": "ଶ୍ରୀ ଜଗନ୍ନାଥ ମହାତ୍ମ୍ୟମ୍",
+        "img_path": "images/jagannath_mahatmyam.jpg",
+        "doc_path": "docs/jagannath_mahatmyam.pdf"
+    },
+    {
+        "book_name": "ଭାରତୀୟ ଗଣତନ୍ତ୍ରମ୍",
+        "img_path": "images/bharatiya_ganatantram.jpg",
+        "doc_path": "docs/bharatiya_ganatantram.pdf"
+    },
+    {
+        "book_name": "ଭାରତୀୟ ଧର୍ମ ଓ ସଂସ୍କୃତିରେ ତାତ୍ତ୍ୱିକ ବିଶ୍ଲେଷଣ",
+        "img_path": "images/bharatiya_dharma.jpg",
+        "doc_path": "docs/bharatiya_dharma.pdf"
+    }
+]
